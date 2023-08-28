@@ -41,6 +41,6 @@ Run the ```main.py``` file.
 
 ## Screenshots
 
-![5 cities](https://imgur.com/a/iGeF3L9)
+![5 cities](https://i.imgur.com/UlQWql9.png)
 
 ![10 cities](https://imgur.com/a/iGeF3L9)
