@@ -43,4 +43,4 @@ Run the ```main.py``` file.
 
 ![5 cities](https://imgur.com/a/iGeF3L9)
 
-![10 cities](https://drive.google.com/file/d/1XNj9E-dzAEkFakiW8sViRhkXkuUSpUY4/view?usp=sharing)
+![10 cities](https://imgur.com/a/iGeF3L9)https://imgur.com/a/iGeF3L9)
