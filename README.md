@@ -41,6 +41,6 @@ Run the ```main.py``` file.
 
 ## Screenshots
 
-![5 cities](https://drive.google.com/file/d/1oJeSU9cEkaYg85dQBdANvk9CYp9XsXzi/view?usp=sharing)
+![5 cities](https://imgur.com/a/iGeF3L9)
 
 ![10 cities](https://drive.google.com/file/d/1XNj9E-dzAEkFakiW8sViRhkXkuUSpUY4/view?usp=sharing)
